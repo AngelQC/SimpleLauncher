@@ -8,6 +8,8 @@ In your tray, like I used to do in Windows prior to version 11!
   * Add support for multi language, instead, if possible quickly.
 * Up the framework version support to whatever is mainstream here at the office.
 
+## Also, first ever project in git/hub/lab/whatever, I don't know what I'm doing :-D
+
 <!--p align="center">
    <img src="banner.png">
 </p--> 
