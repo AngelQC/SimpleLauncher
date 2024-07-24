@@ -1,6 +1,14 @@
-<p align="center">
+# Simple Launcher
+In your tray, like I used to do in Windows prior to version 11!
+
+## Todo: ##
+* Properly rename the content
+* Translate interface to French (work environment is french.. so let's try to accomodate)
+  * Add support for multi language, instead, if possible quickly.
+
+<!--p align="center">
    <img src="banner.png">
-</p> 
+</p--> 
 
 ## Summary: ##
 
